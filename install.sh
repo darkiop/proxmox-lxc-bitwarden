@@ -13,10 +13,10 @@
 vaultwardenUser=vaultwarden
 
 # https://github.com/dani-garcia/vaultwarden/releases/
-vaultwardenVersion="1.23.0"
+vaultwardenVersion="1.24.0"
 
 # https://github.com/dani-garcia/bw_web_builds/releases
-bwWebVersion="2.24.1"
+bwWebVersion="2.26.1"
 
 # first check if root, when not define a alias with sudo
 if [ "${EUID}" -ne 0 ]; then
